@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://utiliefi.github.io/PDw/sitemap_index.txt
+Sitemap: https://utiliefi.github.io/kAP/sitemap_index.txt
+Sitemap: https://utiliefi.github.io/lMY/sitemap_index.txt
+Sitemap: https://utiliefi.github.io/nbL/sitemap_index.txt
